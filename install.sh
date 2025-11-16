@@ -10,18 +10,18 @@ IFS=$'\n\t'
 # DEFAULT CONFIGURATION HERE
 ###############################
 
-DOMAIN="example.com"
-MAIL_HOST="mail.example.com"
+DOMAIN="qbits4dev"
+MAIL_HOST="mail.qbits4dev.com"
 
 ADMIN_USER="admin"
-ADMIN_EMAIL="admin@example.com"
+ADMIN_EMAIL="admin@qbits4dev.com"
 ADMIN_PASSWORD="Admin123!"
 
 DB_NAME="modoboa"
 DB_USER="modouser"
 DB_PASS="DBpass123!"
 
-LE_EMAIL="admin@example.com"
+LE_EMAIL="admin@qbits4dev.com"
 
 ###############################
 echo "=== Modoboa Automated Installer (Debian 13) ==="
